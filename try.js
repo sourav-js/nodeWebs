@@ -2,7 +2,7 @@ require("dotenv");
 var express= require("express"),
 app=express();
 
-var port=Process.env.port || 3000;
+var port=process.env.port || 3000;
 app.get("/",function(req,res){
 
 	res.send("again hosted successfully")
