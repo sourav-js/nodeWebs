@@ -1,0 +1,23 @@
+{
+  "name": "nodewebs",
+  "version": "1.0.0",
+  "description": "\"testing\"",
+  "main": "try.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourav-js/nodeWebs.git"
+  },
+  "author": "sourav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourav-js/nodeWebs/issues"
+  },
+  "homepage": "https://github.com/sourav-js/nodeWebs#readme",
+  "dependencies": {
+    "dotenv": "^14.2.0",
+    "express": "^4.17.2"
+  }
+}
